@@ -1,4 +1,4 @@
-# iwd23
+# Hack UPC 2023
 
 A new Flutter project.
 
